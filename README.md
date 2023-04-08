@@ -1,4 +1,4 @@
-# Wastewater Surveillance Poster for Bioengineering Symposium
+# Wastewater Surveillance Poster for the 60th Bioengineering Symposium
 
 This repository contains the materials for a poster presentation on wastewater surveillance, which was presented at a 60th Rocky Mountain Bioengineering Symposium in 2023. The project aims to demonstrate the application of wastewater survallence techniques for monitoring and detecting pathogens to enhance public health and safety for the state of Wyoming.
 
